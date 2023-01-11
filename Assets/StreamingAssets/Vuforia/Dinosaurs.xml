@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="velociraptor-dinosaur-white-background_1308-100804" size="1.000000 0.643000" />
+    <ImageTarget name="utahraptor" size="1.000000 0.792929" />
+    <ImageTarget name="quetzalcoatlus-roger-harrisscience-photo-library" size="1.000000 0.715564" />
+  </Tracking>
+</QCARConfig>

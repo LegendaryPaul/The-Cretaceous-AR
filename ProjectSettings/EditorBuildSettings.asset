@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8a620cdaba44b484c9df1443d9ca02f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9b6a6a40c64a33b4e9d0a270af583316, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: d45bfd771fa2f7d40a71f03e96fa04ca, type: 2}
